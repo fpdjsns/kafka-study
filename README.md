@@ -1,2 +1,2 @@
-# bae-kafka-study
-bae's kafka study
+# kafka-study
+kafka study
